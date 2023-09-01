@@ -1,6 +1,6 @@
 # bloc_architecture
 
-This project aims to design a simple blockchain architecture,
+This project aims to design a simple bloc architecture,
 exemplifying the use of the data layer, domain layer and application
 layer to display gif images.
 

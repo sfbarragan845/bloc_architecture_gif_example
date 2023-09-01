@@ -1,6 +1,8 @@
 # bloc_architecture
 
-A new Flutter project.
+This project aims to design a simple blockchain architecture,
+exemplifying the use of the data layer, domain layer and application
+layer to display gif images.
 
 ## Getting Started
 
@@ -14,3 +16,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+
+## Gif Images
+The gif image library was provided by (https://developers.giphy.com/)
